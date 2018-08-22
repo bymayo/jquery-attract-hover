@@ -2,6 +2,8 @@
 
 Creates an 'attract' effect, when the mouse is near an element and within bounds.
 
+<img src="https://raw.githubusercontent.com/bymayo/jquery-attract-hover/master/example.gif">
+
 ### Requirements
 
 This plugin currently requires jQuery 2.x+, but we'd recommend using jQuery 3.x+.
@@ -42,31 +44,31 @@ You can overwrite the plugin options e.g. `$('.js-attract-hover').attractHover({
 		<td><strong>Description</strong></td>
 	</tr>
    <tr>
-		<td>`proximity`</td>
+		<td>proximity</td>
 		<td>integer</td>
 		<td>30</td>
 		<td>Defines the area around the element that starts the interaction.</td>
 	</tr>
    <tr>
-		<td>`magnetism`</td>
+		<td>magnetism</td>
 		<td><integer/td>
 		<td>3</td>
 		<td>Defines how far the element can move based on the mouse position and element size.</td>
 	</tr>
    <tr>
-		<td>`attractClass`</td>
+		<td>attractClass</td>
 		<td>string</td>
 		<td>attract-hover</td>
 		<td>Class wrapped around your attracted element that gets added dynamically.</td>
 	</tr>
    <tr>
-		<td>`attractEasingClass`</td>
+		<td>attractEasingClass</td>
 		<td>string</td>
 		<td>attract-hover-easing</td>
 		<td>Class that moves your attracted element that gets added dynamically.</td>
 	</tr>
    <tr>
-		<td>`attractAttractedClass`</td>
+		<td>attractAttractedClass</td>
 		<td>string</td>
 		<td>attract-hover-attracted</td>
 		<td>Class that is added when the element is attracted.</td>
