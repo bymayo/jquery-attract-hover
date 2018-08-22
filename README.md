@@ -51,7 +51,7 @@ You can overwrite the plugin options e.g. `$('.js-attract-hover').attractHover({
 	</tr>
    <tr>
 		<td>magnetism</td>
-		<td><integer/td>
+		<td>integer</td>
 		<td>3</td>
 		<td>Defines how far the element can move based on the mouse position and element size.</td>
 	</tr>
