@@ -1,6 +1,6 @@
 # Attract Hover
 
-Creates an 'attract' effect, when the mouse is near an element and within bounds.
+Creates an 'attract' effect, when the mouse is near an element and within bounds. 🖱⚪️
 
 <img src="https://github.com/bymayo/jquery-attract-hover/raw/master/example.gif">
 
