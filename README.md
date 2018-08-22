@@ -21,7 +21,13 @@ Or, manually by copying the `attractHover.js` from `/dist/` and placing it insid
 To initialise the plugin, use the code below in your JS file.
 
 ```javascript
-$('.js-attract-hover').attractHover();
+   $.attractHover(
+   	'.js-attract',
+   	{
+   		proximity: 20,
+   		magnetism: 4
+   	}
+   );
 ```
 
 Then add the selector to the element you want to have the attract effect to.
@@ -34,7 +40,7 @@ Then add the selector to the element you want to have the attract effect to.
 
 ## Options
 
-You can overwrite the plugin options e.g. `$('.js-attract-hover').attractHover({ proximity: 10 });`. The options for the plugin can be found below:
+You can overwrite the plugin options e.g. `$.attractHover('.js-attract', { proximity: 10 });`. The options for the plugin can be found below:
 
 <table>
 	<tr>
