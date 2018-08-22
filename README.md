@@ -22,7 +22,7 @@ To initialise the plugin, use the code below in your JS file.
 
 ```javascript
    $.attractHover(
-   	'.js-attract',
+   	'.js-attract-hover',
    	{
    		proximity: 20,
    		magnetism: 4
