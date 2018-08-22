@@ -1,0 +1,11 @@
+{
+    "name": "bymayo/attract-hover",
+    "description": "Creates an 'attract' effect, when the mouse is near an element and within bounds.",
+    "authors": [
+        {
+            "name": "Jason Mayo",
+            "email": "jason@bymayo.co.uk"
+        }
+    ],
+    "require": {}
+}
