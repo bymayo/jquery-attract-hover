@@ -2,7 +2,7 @@
 
 Creates an 'attract' effect, when the mouse is near an element and within bounds.
 
-<img src="https://raw.githubusercontent.com/bymayo/jquery-attract-hover/master/example.gif">
+<img src="https://github.com/bymayo/jquery-attract-hover/raw/master/example.gif">
 
 ### Requirements
 
