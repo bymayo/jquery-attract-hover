@@ -4,6 +4,11 @@ Creates an 'attract' effect, when the mouse is near an element and within bounds
 
 <img src="https://github.com/bymayo/jquery-attract-hover/raw/master/example.gif">
 
+### Example
+
+<p data-height="265" data-theme-id="dark" data-slug-hash="PdqPQW" data-default-tab="result" data-user="bymayo" data-pen-title="Attract Hover" class="codepen">See the Pen <a href="https://codepen.io/bymayo/pen/PdqPQW/">Attract Hover</a> by Jason Mayo (<a href="https://codepen.io/bymayo">@bymayo</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ### Requirements
 
 This plugin currently requires jQuery 2.x+, but we'd recommend using jQuery 3.x+.
