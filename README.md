@@ -6,8 +6,7 @@ Creates an 'attract' effect, when the mouse is near an element and within bounds
 
 ### Example
 
-<p data-height="265" data-theme-id="dark" data-slug-hash="PdqPQW" data-default-tab="result" data-user="bymayo" data-pen-title="Attract Hover" class="codepen">See the Pen <a href="https://codepen.io/bymayo/pen/PdqPQW/">Attract Hover</a> by Jason Mayo (<a href="https://codepen.io/bymayo">@bymayo</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+You can see an example of this working over on <a href="https://codepen.io/bymayo/pen/PdqPQW/">Codepen</a>
 
 ### Requirements
 
