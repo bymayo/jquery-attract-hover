@@ -6,7 +6,6 @@
 
 var gulp = require('gulp'),
    uglify = require('gulp-uglify'),
-   notify = require("gulp-notify"),
    plumber = require('gulp-plumber');
 
 // ===============================
@@ -32,14 +31,6 @@ gulp.task(
       return gulp
          .src(
             package.files.uncompressed
-         )
-         .pipe(
-            plumber({
-               errorHandler: notify.onError({
-                  title: 'Error',
-                  message: 'Error Minifying Javascript'
-               })
-            })
          )
          .pipe(
             uglify()
